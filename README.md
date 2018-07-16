@@ -2,9 +2,21 @@
 
 A programmable jQuery countdown timer with Ajax CodeIgniter.
 
+
 #### To install the database file you will get a folder called "database"
 
 ### Inside the zip file- follow this path "application/config/database.php" change the database name as you create in your phpmyadmin
+
+#### - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Please before run it go to "application/config/config.php" and change it like following one-`
+
+````
+$config['base_url'] = 'http://localhost/jquery-countdown-timer-with-ajax-codeigniter';
+
+//Whatever your folder name is will need to add here after localhost/YourFolderName
+
+//Here my folder name is "jquery-countdown-timer-with-ajax-codeigniter"
+
+````
 
 #### The goal was to make a programmable Countdown Timer with CodeIgniter, CSS and Javascript. 
 
