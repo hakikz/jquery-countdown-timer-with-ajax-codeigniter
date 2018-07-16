@@ -3,7 +3,7 @@
 A programmable jQuery countdown timer with Ajax CodeIgniter.
 
 
-#### To install the database file you will get a folder called "database"
+#### `To install the database file you will get a folder called "database"`
 
 #### `Inside the zip file- follow this path "application/config/database.php" change the database name as you create in your phpmyadmin`
 
