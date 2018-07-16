@@ -17,6 +17,7 @@ $config['base_url'] = 'http://localhost/jquery-countdown-timer-with-ajax-codeign
 //Here my folder name is "jquery-countdown-timer-with-ajax-codeigniter"
 
 ````
+## Description
 
 #### The goal was to make a programmable Countdown Timer with CodeIgniter, CSS and Javascript. 
 
