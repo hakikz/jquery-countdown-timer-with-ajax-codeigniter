@@ -8,9 +8,10 @@ A programmable jQuery countdown timer with Ajax CodeIgniter.
 
 #### The goal was to make a programmable Countdown Timer with CodeIgniter, CSS and Javascript. 
 
-This countdown timer has 4 field Day, Hour, Minute and 
-Seconds. User able to input these values and set the timer. The following 
-attributes can be customizable from a timer editing panel
+This countdown timer will show 4 attributes Day, Hour, Minute and 
+Seconds. User able to input date using calendar and set the timer. 
+
+The following attributes can be customizable from a timer editing panel
 
 #### Countdown values (Day, Hour, Minute, Second)
 
