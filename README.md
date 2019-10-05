@@ -39,7 +39,7 @@ The following attributes can be customizable from a timer editing panel
 ![alt text](https://github.com/hakikz/jquery-countdown-timer-with-ajax-codeigniter/blob/master/dist/settings.png)
 
 
-#### This the countdown timer without out settings option
+#### This the countdown timer without settings option
 
 ![alt text](https://github.com/hakikz/jquery-countdown-timer-with-ajax-codeigniter/blob/master/dist/home.png)
 
